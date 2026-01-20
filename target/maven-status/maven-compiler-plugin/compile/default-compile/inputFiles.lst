@@ -1,0 +1,6 @@
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/App.java
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/dao/AttendanceDAO.java
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/domain/OngoingVisit.java
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/domain/Student.java
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/domain/Visit.java
+/home/ethanbegley/Desktop/student-tracker-packages/src/main/java/com/github/unchangingconstant/stdomain/services/AttendanceServiceBase.java

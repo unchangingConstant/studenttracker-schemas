@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://https://github.com/unchangingConstant/studenttracker-schemas",
+  "title": "Student",
+  "description": "A student at a Kumon center",
+  "type": "object",
+  "properties": {
+    "studentId": {
+      "description": "The unique identifier for a student",
+      "type": "integer"
+    },
+    "fullName": {
+        "description": "The student's full name",
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 150
+    },
+    "preferredName": {
+        "description": "The student's preferred name",
+        "type": "string",
+        "minLength": 0,
+        "maxLength": 150
+    },
+    "visitTime": {
+        "description": "The number of minutes the student should spend at the center per visit",
+        "type": "integer",
+        "exclusiveMinimum": 0,
+        "maximum": 120
+    },
+    "dateRegistered": {
+        "description": "When the student was registered to the center in Unix time (seconds since the Epoch)",
+        "type": "integer",
+        "exclusiveMinimum": 0
+    }
+  }
+}
+

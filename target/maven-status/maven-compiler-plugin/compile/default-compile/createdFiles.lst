@@ -1,0 +1,11 @@
+com/github/unchangingconstant/stdomain/domain/Visit.class
+com/github/unchangingconstant/stdomain/App.class
+com/github/unchangingconstant/stdomain/domain/OngoingVisit$OngoingVisitBuilder.class
+com/github/unchangingconstant/stdomain/services/AttendanceServiceBase.class
+com/github/unchangingconstant/stdomain/services/AttendanceServiceBase$IllegalDatabaseOperationException.class
+com/github/unchangingconstant/stdomain/domain/Student.class
+com/github/unchangingconstant/stdomain/domain/Visit$VisitBuilder.class
+com/github/unchangingconstant/stdomain/services/AttendanceServiceBase$InvalidDatabaseEntryException.class
+com/github/unchangingconstant/stdomain/domain/OngoingVisit.class
+com/github/unchangingconstant/stdomain/domain/Student$StudentBuilder.class
+com/github/unchangingconstant/stdomain/dao/AttendanceDAO.class
